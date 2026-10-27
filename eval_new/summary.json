@@ -1,0 +1,15 @@
+{
+ "n": 200,
+ "stage": "fine",
+ "dice_mean": 0.9999200874567031,
+ "dice_median": 1.0,
+ "iou_mean": 0.9998417094349861,
+ "iou_median": 1.0,
+ "centroid_err_px_mean": 0.003987709647044539,
+ "centroid_err_px_median": 0.0,
+ "radius_err_px_mean": 0.0008175945281982421,
+ "radius_err_px_median": 0.0,
+ "centroid_err_um_mean": 0.00039877096470445397,
+ "abs_radius_err_px_mean": 0.0018498706817626953,
+ "empty_pred_frac": 0.0
+}
